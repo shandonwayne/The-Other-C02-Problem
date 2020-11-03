@@ -1,0 +1,91 @@
+
+{
+
+	"HTMLFileName":"Footer.html",
+	"pref__general__AutoKeyframeProperties":"true",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"expanded:images/Land.png":"nil",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"viewStartMs":"-121.96329498291",
+	"pref__general__AutoKeyframePropertiesArmed":"false",
+	"symbol_stage":{
+		"element_${LandCopy}":{
+			"timelineColor2":"0x107faa",
+			"timelineColor3":"0x295a6d",
+			"animationEnabled":"false",
+			"timelineColor":"0x008dc8"},
+		"element_${Space}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"locked":"false",
+			"timelineColor":"0x91c767"},
+		"element_${Group2}":{
+			"timelineColor2":"0x5a558a",
+			"timelineColor3":"0x4a485e",
+			"timelineColor":"0x63599f",
+			"timelineTreeOpened":"true",
+			"animationEnabled":"true"},
+		"element_${Clouds}":{
+			"timelineColor2":"0x168c84",
+			"timelineColor3":"0x2a605c",
+			"timelineColor":"0x00a096",
+			"locked":"false",
+			"animationEnabled":"false"},
+		"dummyStageParentHeight":"250px",
+		"dummyStageParentWidth":"1024px",
+		"element_${Ocean}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"timelineColor":"0x50bd82"},
+		"element_${CloudsCopy}":{
+			"timelineColor2":"0x326a96",
+			"timelineColor3":"0x385063",
+			"timelineColor":"0x2f73ad",
+			"locked":"false",
+			"animationEnabled":"false"},
+		"defaultStageParentHeight":"250px",
+		"element_${Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"animationEnabled":"false",
+			"timelineColor":"0xeedf79"},
+		"element_${Land}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"timelineColor":"0x00bda4"},
+		"defaultStageParentWidth":"1024px",
+		"hGuides":"236px",
+		"element_${Group}":{
+			"timelineColor2":"0x1095d2",
+			"timelineColor3":"0x29647e",
+			"timelineColor":"0x00a9fa",
+			"locked":"false",
+			"animationEnabled":"true",
+			"timelineTreeOpened":"false"},
+		"vGuides":"493px,-95px,333px,522px"},
+	"TransitionIdCounter":"50",
+	"CompZoomFactor":"100",
+	"viewStartY":"35",
+	"pixelsPerMs":"0.04099593984589",
+	"expanded:images/Ocean.png":"nil",
+	"expanded:images/Clouds.png":"nil",
+	"usedBOM":"false",
+	"nextElementColorIndex":"10",
+	"stage-Default Timeline_playhead_ms":"14937",
+	"StageZoomFactor":"73",
+	"expanded:images/Space.png":"nil",
+	"stage-Default Timeline_mark_ms":"-1"}
